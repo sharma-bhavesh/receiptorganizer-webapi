@@ -1,0 +1,7 @@
+E:\Projects\RentalReceiptOrganizer\RentalReceiptOrganizer.DomainService\bin\Debug\RentalReceiptOrganizer.DomainService.dll
+E:\Projects\RentalReceiptOrganizer\RentalReceiptOrganizer.DomainService\bin\Debug\RentalReceiptOrganizer.DomainService.pdb
+E:\Projects\RentalReceiptOrganizer\RentalReceiptOrganizer.DomainService\bin\Debug\RentalReceiptOrganizer.Domain.dll
+E:\Projects\RentalReceiptOrganizer\RentalReceiptOrganizer.DomainService\bin\Debug\RentalReceiptOrganizer.Domain.pdb
+E:\Projects\RentalReceiptOrganizer\RentalReceiptOrganizer.DomainService\obj\Debug\RentalReceiptOrganizer.DomainService.csprojResolveAssemblyReference.cache
+E:\Projects\RentalReceiptOrganizer\RentalReceiptOrganizer.DomainService\obj\Debug\RentalReceiptOrganizer.DomainService.dll
+E:\Projects\RentalReceiptOrganizer\RentalReceiptOrganizer.DomainService\obj\Debug\RentalReceiptOrganizer.DomainService.pdb

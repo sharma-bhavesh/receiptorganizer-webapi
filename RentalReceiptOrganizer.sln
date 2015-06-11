@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RentalReceiptOrganizer.Domain", "RentalReceiptOrganizer.Domain\RentalReceiptOrganizer.Domain.csproj", "{44E8F4A1-FC7D-4043-83F1-BDDF61D252CB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{00798913-C13A-40E9-A0F1-48F517D7E096}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RentalReceiptOrganizer.WebApi", "RentalReceiptOrganizer.WebApi\RentalReceiptOrganizer.WebApi.csproj", "{CBD414B8-523D-4AE6-9BC7-3D5D73B5D409}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RentalReceiptOrganizer.DomainService", "RentalReceiptOrganizer.DomainService\RentalReceiptOrganizer.DomainService.csproj", "{C098AB02-C44C-456D-9D66-B7A35A085F6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RentalReceiptOrganizer.Data", "RentalReceiptOrganizer.Data\RentalReceiptOrganizer.Data.csproj", "{3FBBFBE7-91AF-42FC-8A82-7FF1FCBB7D39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44E8F4A1-FC7D-4043-83F1-BDDF61D252CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44E8F4A1-FC7D-4043-83F1-BDDF61D252CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44E8F4A1-FC7D-4043-83F1-BDDF61D252CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44E8F4A1-FC7D-4043-83F1-BDDF61D252CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBD414B8-523D-4AE6-9BC7-3D5D73B5D409}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBD414B8-523D-4AE6-9BC7-3D5D73B5D409}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBD414B8-523D-4AE6-9BC7-3D5D73B5D409}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBD414B8-523D-4AE6-9BC7-3D5D73B5D409}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C098AB02-C44C-456D-9D66-B7A35A085F6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C098AB02-C44C-456D-9D66-B7A35A085F6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C098AB02-C44C-456D-9D66-B7A35A085F6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C098AB02-C44C-456D-9D66-B7A35A085F6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FBBFBE7-91AF-42FC-8A82-7FF1FCBB7D39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FBBFBE7-91AF-42FC-8A82-7FF1FCBB7D39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FBBFBE7-91AF-42FC-8A82-7FF1FCBB7D39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FBBFBE7-91AF-42FC-8A82-7FF1FCBB7D39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

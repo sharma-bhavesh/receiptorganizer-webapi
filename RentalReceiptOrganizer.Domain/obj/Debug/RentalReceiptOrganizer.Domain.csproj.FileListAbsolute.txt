@@ -1,0 +1,11 @@
+E:\Projects\RentalReceiptOrganizer\RentalReceiptOrganizer.Domain\bin\Debug\RentalReceiptOrganizer.Domain.dll
+E:\Projects\RentalReceiptOrganizer\RentalReceiptOrganizer.Domain\bin\Debug\RentalReceiptOrganizer.Domain.pdb
+E:\Projects\RentalReceiptOrganizer\RentalReceiptOrganizer.Domain\bin\Debug\Newtonsoft.Json.dll
+E:\Projects\RentalReceiptOrganizer\RentalReceiptOrganizer.Domain\bin\Debug\System.Net.Http.Formatting.dll
+E:\Projects\RentalReceiptOrganizer\RentalReceiptOrganizer.Domain\bin\Debug\System.Web.Http.dll
+E:\Projects\RentalReceiptOrganizer\RentalReceiptOrganizer.Domain\bin\Debug\Newtonsoft.Json.xml
+E:\Projects\RentalReceiptOrganizer\RentalReceiptOrganizer.Domain\bin\Debug\System.Net.Http.Formatting.xml
+E:\Projects\RentalReceiptOrganizer\RentalReceiptOrganizer.Domain\bin\Debug\System.Web.Http.xml
+E:\Projects\RentalReceiptOrganizer\RentalReceiptOrganizer.Domain\obj\Debug\RentalReceiptOrganizer.Domain.dll
+E:\Projects\RentalReceiptOrganizer\RentalReceiptOrganizer.Domain\obj\Debug\RentalReceiptOrganizer.Domain.pdb
+E:\Projects\RentalReceiptOrganizer\RentalReceiptOrganizer.Domain\obj\Debug\RentalReceiptOrganizer.Domain.csprojResolveAssemblyReference.cache

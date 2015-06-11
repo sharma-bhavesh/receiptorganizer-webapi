@@ -1,0 +1,15 @@
+E:\Projects\RentalReceiptOrganizer\RentalReceiptOrganizer.Data\bin\Debug\RentalReceiptOrganizer.Data.dll.config
+E:\Projects\RentalReceiptOrganizer\RentalReceiptOrganizer.Data\bin\Debug\RentalReceiptOrganizer.Data.dll
+E:\Projects\RentalReceiptOrganizer\RentalReceiptOrganizer.Data\bin\Debug\RentalReceiptOrganizer.Data.pdb
+E:\Projects\RentalReceiptOrganizer\RentalReceiptOrganizer.Data\bin\Debug\EntityFramework.dll
+E:\Projects\RentalReceiptOrganizer\RentalReceiptOrganizer.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\Projects\RentalReceiptOrganizer\RentalReceiptOrganizer.Data\bin\Debug\LinqKit.dll
+E:\Projects\RentalReceiptOrganizer\RentalReceiptOrganizer.Data\bin\Debug\RentalReceiptOrganizer.Domain.dll
+E:\Projects\RentalReceiptOrganizer\RentalReceiptOrganizer.Data\bin\Debug\RentalReceiptOrganizer.DomainService.dll
+E:\Projects\RentalReceiptOrganizer\RentalReceiptOrganizer.Data\bin\Debug\RentalReceiptOrganizer.DomainService.pdb
+E:\Projects\RentalReceiptOrganizer\RentalReceiptOrganizer.Data\bin\Debug\RentalReceiptOrganizer.Domain.pdb
+E:\Projects\RentalReceiptOrganizer\RentalReceiptOrganizer.Data\bin\Debug\EntityFramework.xml
+E:\Projects\RentalReceiptOrganizer\RentalReceiptOrganizer.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\Projects\RentalReceiptOrganizer\RentalReceiptOrganizer.Data\obj\Debug\RentalReceiptOrganizer.Data.csprojResolveAssemblyReference.cache
+E:\Projects\RentalReceiptOrganizer\RentalReceiptOrganizer.Data\obj\Debug\RentalReceiptOrganizer.Data.dll
+E:\Projects\RentalReceiptOrganizer\RentalReceiptOrganizer.Data\obj\Debug\RentalReceiptOrganizer.Data.pdb
